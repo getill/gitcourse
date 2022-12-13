@@ -41,7 +41,6 @@ int main(int argc, char *argv[]){
 	else {printf("Erreur de parametres");}
 	}
 	
-	else {printf("Erreur de parametres");}
 	return 0;
 }
 
