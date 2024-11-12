@@ -29,7 +29,7 @@ Test_Add:
     - cd build
     - cmake ..
     - make
-    - ./src/calculator add 23 4
+    - ./src/calculator add 23 5
 
 Deploy:
   tags:
